@@ -15,3 +15,5 @@ Tech Stack
 Frontend: React, MobX, React Router, Axios
 Backend: Node.js, Express, Sequelize, PostgreSQL
 Authentication: JWT, bcrypt
+
+<img width="1440" height="822" alt="Screenshot 2025-11-03 at 14 36 55" src="https://github.com/user-attachments/assets/d9fd8dac-5379-41e2-a2c8-c306201f31f8" />
